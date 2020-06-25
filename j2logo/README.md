@@ -1,0 +1,1 @@
+En este codigo se quiere obtener en numero de veces de un caracter de una cadena ingresada por el usuario, primero por medio de una funcion la cual se obtienen los caracteres del diccionario por medio de su numero ASCII y luego por medio de otra funcion se realiza el loop correspondiente.
